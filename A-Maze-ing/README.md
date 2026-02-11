@@ -532,8 +532,6 @@ name implies, this will return a list of the cell's walls. You can also get a ce
 using the **coordinates** getter.
 
 ```py
-line = 0
-column = 0
 my_cell = my_maze[line][column]
 
 walls = my_cell.get_walls()
