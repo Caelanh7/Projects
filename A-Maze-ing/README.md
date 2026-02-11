@@ -13,7 +13,7 @@ While we were given a good amount of freedom, the project must still meet some c
 - Organise everything into a re-usable module
 
 In addition to the mandatory part, we also implemented a few bonus features, which I will not
-explain yet in order to create a feeling of suspense.
+reveal yet in order to create a feeling of suspense.
 
 ![Pathfinding animation](./path_animation.gif)
 
