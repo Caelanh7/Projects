@@ -3,7 +3,7 @@
 # Description
 A-Maze-ing is all about, you guessed it, maze generation. In this project, we learn how to create
 mazes, the different ways to display them, and how to use them for different purposes such as
-pathfinding, or optionally game loops.
+pathfinding, or optionally, game loops.
 
 While we were given a good amount of freedom, the project must still meet some core requirements:
 - Parse a config file and convert the data to usable values
